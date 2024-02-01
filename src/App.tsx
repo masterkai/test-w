@@ -3,11 +3,13 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+
+  // just a comment
   const testFunc = () => {
-    console.log('hello world')
-    console.log('hello world')
-    console.log('hello world')
-    console.log('hello world')
+    console.log('hello world 1')
+    console.log('hello world 2')
+    console.log('hello world 3')
+    console.log('hello world 4')
   }
   return (
     <div className="App">
@@ -23,7 +25,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React!!!!
+          Learn React!!!!😀😜
         </a>
       </header>
     </div>
